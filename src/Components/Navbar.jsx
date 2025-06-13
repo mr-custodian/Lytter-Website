@@ -21,7 +21,7 @@ export function NavigationBar() {
 
       <div className="flex md:order-2">
         <Button onClick={() => window.location.href = "https://crapycycle.vercel.app/"}>
-          Get started
+          Login
         </Button>
         <NavbarToggle />
       </div>
